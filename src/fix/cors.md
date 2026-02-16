@@ -1,0 +1,1 @@
+# fix: CORS preflight handling
